@@ -21,7 +21,7 @@ Our initial data cleaning, integration, and analysis reveal characteristics typi
 Definitions:
 
 1. Diabetes mellitus (DM) is a chronic metabolic disorder characterized by elevated levels of blood sugar, or glucose. It is caused by either the body's inability to produce insulin, the hormone that regulates blood sugar levels, or the body's cells becoming resistant to insulin.
-    - Disbetes mellitus (DM) with complications: the risk of developing complications from diabetes increases with the length of time you have the disease and how well you control your blood sugar levels. This can lead to a number of serious health complications, including:
+    - Diabetes mellitus (DM) with complications: the risk of developing complications from diabetes increases with the length of time you have the disease and how well you control your blood sugar levels. This can lead to a number of serious health complications, including:
         - Heart disease
         - Stroke
         - High blood pressure

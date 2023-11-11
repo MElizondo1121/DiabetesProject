@@ -21,23 +21,22 @@ Our initial data cleaning, integration, and analysis reveal characteristics typi
 Definitions:
 
 1. Diabetes mellitus (DM) is a chronic metabolic disorder characterized by elevated levels of blood sugar, or glucose. It is caused by either the body's inability to produce insulin, the hormone that regulates blood sugar levels, or the body's cells becoming resistant to insulin.
+    - Disbetes mellitus (DM) with complications: the risk of developing complications from diabetes increases with the length of time you have the disease and how well you control your blood sugar levels. This can lead to a number of serious health complications, including:
+        - Heart disease
+        - Stroke
+        - High blood pressure
+        - Nerve damage (neuropathy)
+        - Eye damage (retinopathy)
+        - Foot problems
+        - Kidney disease
+        - Liver disease
+        - Alzheimer's disease
+        - Depression
+        - Sexual dysfunction
+
 2. Type 1 diabetes is an autoimmune disease in which the body's immune system attacks the beta cells in the pancreas, the cells that produce insulin. This can cause a complete lack of insulin production. Type 1 diabetes is usually diagnosed in children and adolescents, but can develop at any age
 3. Type 2 diabetes is the most common type of diabetes. It is caused by a combination of insulin resistance and insufficient insulin production. Insulin resistance occurs when the body's cells do not respond normally to insulin. This can cause blood sugar levels to rise. Type 2 diabetes is usually diagnosed in adults, but can also develop in children and adolescents.
-Diabetes can lead to a number of serious health complications, including:
 
-    Heart disease
-    Stroke
-    High blood pressure
-    Nerve damage (neuropathy)
-    Eye damage (retinopathy)
-    Foot problems
-    Kidney disease
-    Liver disease
-    Alzheimer's disease
-    Depression
-    Sexual dysfunction
-
-The risk of developing complications from diabetes increases with the length of time you have the disease and how well you control your blood sugar levels.
 
 ## References:
 

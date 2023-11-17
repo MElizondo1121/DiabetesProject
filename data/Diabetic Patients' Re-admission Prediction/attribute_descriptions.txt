@@ -1,0 +1,51 @@
+    encounter_id: A unique identifier for each patient encounter.
+
+    patient_nbr: A unique identifier for each patient.
+
+    race: Categorical information indicating the race or ethnicity of the patient.
+
+    gender: Gender of the patient (Male/Female/Other).
+
+    age: Age of the patient.
+
+    weight: Weight of the patient.
+
+    admission_type_id: ID representing different types of admission (e.g., emergency, urgent, etc.).
+
+    discharge_disposition_id: ID representing different types of discharge dispositions (e.g., discharged to home, transferred to another medical facility, etc.).
+
+    admission_source_id: ID representing different sources of admission (e.g., physician referral, emergency room, etc.).
+
+    time_in_hospital: Number of days the patient stayed in the hospital during the encounter.
+
+    payer_code: Code representing the type of insurance payer.
+
+    medical_specialty: Specialty of the treating physician or department.
+
+    num_lab_procedures: Number of lab tests performed during the encounter.
+
+    num_procedures: Number of procedures performed during the encounter.
+
+    num_medications: Number of distinct medications administered during the encounter.
+
+    number_outpatient: Number of outpatient visits of the patient in the year preceding the encounter.
+
+    number_emergency: Number of emergency visits of the patient in the year preceding the encounter.
+
+    number_inpatient: Number of inpatient visits of the patient in the year preceding the encounter.
+
+    diag_1, diag_2, diag_3: Codes indicating primary, secondary, and additional diagnoses for the patient.
+
+    number_diagnoses: Number of diagnoses entered to the system.
+
+    max_glu_serum: Result of the maximum glucose serum test.
+
+    A1Cresult: Result of the A1C test.
+
+    metformin, repaglinide, nateglinide, etc.: Columns representing different medications and indicating whether they were administered or not.
+
+    change: Indicates if there was a change in medications.
+
+    diabetesMed: Indicates if there was any diabetic medication prescribed.
+
+    readmitted: Indicates if the patient was readmitted to the hospital.
